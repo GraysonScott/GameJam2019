@@ -1,0 +1,26 @@
+Sigil ideas
+
+shrink
+grow
+slow time
+night vision
+immolation
+swimming
+levitating
+
+AB - Swimming
+AE – Slow Time
+AF - Levitation
+BD - Grow
+BE - Shrink
+CF - Immolation
+DE - Night Vision
+
+
+Puzzle 1 - requires nothing - rewards Sigil B
+Puzzle 2 - requires Swimming - rewards Sigil D
+Puzzle 3 - requires grow/swimming - rewards E
+Puzzle 4 - requires grow/shrink - leads to puzzle 
+puzzle 5 - requires night vision/slow time - rewards F
+puzzle 6 - requires levitation/shrink - rewards C
+puzzle 7 - requires immolation/levitation/night vision/slow time - exit
